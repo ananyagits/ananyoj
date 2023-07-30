@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello everyone</h2>
+<h2>Meditation has healing powers</h2>
 </body>
 </html>
